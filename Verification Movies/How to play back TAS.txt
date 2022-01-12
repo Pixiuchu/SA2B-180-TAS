@@ -1,0 +1,14 @@
+SAVE FILE VERIFICATION MOVIE:
+ROMs needed:
+Interactive Disc Catalog Summer 2003.iso
+Sonic Advance (Japan) (Rev 1).gba
+Sonic Adventure 2: Battle (Japan).iso
+
+Dolphin 5.0-15105
+In settings > GameCube, select Port 2 ROM as Sonic Advance (Japan) (Rev 1).gba.
+Obviously make sure no save files are loaded.
+
+Play back "TailsChaoFile Part1 - INTERACTIVE DEMO.dtm" on the Interactive Disc Catlog game. After it has finished playing back, play back "TailsChaoFile Part2 - SONIC ADVENTURE 2 SETUP.dtm" on the Japanese version of Sonic Adventure 2: Battle.
+
+AFTER ALL THAT, USE DOLPHIN 4.0-4222
+Start the 180 Emblems DTM file (On the JP version of the game!).

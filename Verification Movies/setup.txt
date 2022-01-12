@@ -1,0 +1,28 @@
+==================================
+SA2B 180 Emblems .dtm instructions
+==================================
+ROMs needed:
+- Interactive Disc Catalog Summer 2003 (Japan).iso
+- Sonic Advance (Japan) (En,Ja) (Rev 1).gba
+- Sonic Advance (USA) (En,Ja).gba
+- Sonic Adventure 2 - Battle.iso (USA version)
+
+Step 1: on Dolphin 5.0-15105, set up port 2 ROM to be "Sonic Advance (Japan) (En,Ja) (Rev 1).gba"
+
+Step 2: playback "TailsChaoFile Part1 - INTERACTIVE DEMO.dtm" on Interactive Disc Catalog Summer 2003
+
+Step 3: Close the game after input ends
+
+Step 4: set up port 2 ROM to be "- Sonic Advance (USA) (En,Ja).gba"
+
+Step 5: go to C:\Users\<user>\Documents\Dolphin Emulator\GBA\Saves and rename "Sonic Advance (Japan) (En,Ja) (Rev 1)-2.sav" to "Sonic Advance (USA) (En,Ja)-2.sav"
+
+Step 6: playback "TailsChaoFile Part2 - SONIC ADVENTURE 2 SETUP.dtm" on Sonic Adventure 2: Battle
+
+Step 7: Close the game after input ends
+
+Step 8: go to C:\Users\<user>\Documents\Dolphin Emulator\GC and rename "MovieA.raw" to "MemoryCardA.USA.raw"
+
+Step 9: on Dolphin 4.0-4222, play back "main.dtm" on Sonic Adventure 2: Battle.
+
+Step 10: Enjoy!
